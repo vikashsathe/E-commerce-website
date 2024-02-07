@@ -1,0 +1,9 @@
+.HomeProductCard .textPart {
+  transition: transform 0.2s ease-out;
+}
+ .HomeProductCard:hover .textPart {
+   transform: translateY(1rem); 
+} 
+.HomeProductCard:hover {
+  box-shadow: rgba(0, 0, 0, 0.30) 0px 5px 15px;
+}

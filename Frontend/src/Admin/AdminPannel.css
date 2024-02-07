@@ -1,0 +1,6 @@
+.adminContainer{
+    background-color: black !important;
+    padding: 1rem;  
+    min-height: 100vh;
+    width: 100%;
+}
